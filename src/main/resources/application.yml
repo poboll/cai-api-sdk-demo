@@ -1,0 +1,15 @@
+spring:
+  mvc:
+    path match:
+      matching-strategy: ant_path_matcher
+server:
+  port: 8088
+  servlet:
+    context-path: /api
+qi:
+  api:
+    client:
+      access-key: ed0d3e1b244f84caa22783dd782b8e9f
+      secret-key: f1eac0de371858b4ac461e7aae6f9ffd
+      #  本地测试增加修改
+#      host: http://localhost:8090/api
