@@ -45,8 +45,8 @@
 
 -  **[Cai-API 接口开放平台 🔗](https://api.caiths.com/)**
 
--  **[Qi-API-DOC 开发者文档 📖](https://api-docs.caiths.com)**
--  **[Cai-API-SDK-demo ✔️](https://github.com/poboll/cai-api-sdk-demo/blob/master/src/main/java/icu/qimuu/qiapisdkdemo/controller/InvokeController.java)**
+-  **[Cai-API-DOC 开发者文档 📖](https://api-docs.caiths.com)**
+-  **[Cai-API-SDK-demo ✔️](https://github.com/poboll/cai-api-sdk-demo/blob/main/src/main/java/com/caiths/caiapisdkdemo/controller/InvokeController.java)**
 
 
 ## 目录结构 📑
@@ -54,13 +54,13 @@
 
 | 目录                                                                                                                                                       | 描述            |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| **🏘️ [cai-api-backend](./cai-api-backend)**                                                                                                             | Cai-API后端服务模块 |
-| **🏘️ [cai-api-common](./cai-api-common)**                                                                                                               | 公共服务模块        |
-| **🕸️ [cai-api-gateway](./cai-api-gateway)**                                                                                                             | 网关模块          |
-| **🔗 [cai-api-interface](./cai-api-interface)**                                                                                                          | 接口模块          |
-| **🛠 [qi-qpi-sdk](https://github.com/poboll/cai-api-sdk)**                                                                                               | 开发者调用sdk      |
+| **🏘️ [cai-api-backend](https://github.com/poboll/cai-api/cai-api-backend)**                                                                             | Cai-API后端服务模块 |
+| **🏘️ [cai-api-common](https://github.com/poboll/cai-api/cai-api-common)**                                                                               | 公共服务模块        |
+| **🕸️ [cai-api-gateway](https://github.com/poboll/cai-api/cai-api-gateway)**                                                                             | 网关模块          |
+| **🔗 [cai-api-interface](https://github.com/poboll/cai-api/cai-api-interface)**                                                                          | 接口模块          |
+| **🛠 [cai-qpi-sdk](https://github.com/poboll/cai-api-sdk)**                                                                                              | 开发者调用sdk      |
 | **📘 [cai-api-doc](https://api-docs.caiths.com)**                                                                                                        | 接口在线文档        |
-| **✔️ [Cai-API-SDK-Demo](https://github.com/poboll/cai-api-sdk-demo/blob/1.0.0/src/main/java/com/caiths/caiapisdkdemo/controller/InvokeController.java)** | sdk调用Demo     |
+| **✔️ [cai-api-sdk-demo](https://github.com/poboll/cai-api-sdk-demo/blob/1.0.0/src/main/java/com/caiths/caiapisdkdemo/controller/InvokeController.java)** | SDK调用Demo     |
 
 ## 项目流程 🗺️
 
